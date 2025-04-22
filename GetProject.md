@@ -1,12 +1,13 @@
-# 環境構築
+# 本リポジトリの環境構築
 
 このプロジェクトはJekyllで構築されており、DockerとDocker Composeを使用して環境構築を行います。  
 OSに依存しない環境で動作確認できるため、Mac/Windowsともに以下の手順で構築できます。
 
 ---
 
-## 前提条件
+### 前提条件
 
+- Git,Github
 - Docker（最新版）
 - Docker Compose
 
@@ -47,7 +48,12 @@ http://localhost:4000
 
 ---
 
-## 補足
+### 補足
 
 - 使用テーマ：minima（GitHub Pages互換）
 - ポート番号を変えたい場合は `docker-compose.yml` を編集してください。
+
+###  お問い合わせ
+説明等に不備やご不明点がある場合は以下のメールアドレスかGithubのissueにて該当のタグをつけてご連絡いただけると幸いです。  
+- メールアドレス：<kd1378732@st.kobedenshi.ac.jp>  
+- Githubリポジトリ: <a href="https://github.com/KD-Fish/docs">仕様書のリポジトリ</a>
