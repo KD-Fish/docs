@@ -70,8 +70,15 @@
 ※ 半画面時にヘッダーがハンバーガーバーに変わる
 
 ##### Topページ(下半分)
+- **全画面時**
 
+<img src="assets/pictures/TopPage_Bottom.png" width="60%">
 
+- **半画面時**
+
+<img src="assets/pictures/TopPage_bottom2.png" width="60%">
+
+※ 
 ## **05. 使用技術・構成図**
 
 ## **06. 導入・運用方針**
