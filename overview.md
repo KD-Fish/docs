@@ -38,8 +38,7 @@
 まず簡単に DI-FISH がどのような経緯でできたか説明します。
 
 以下の図のような流れがありました。
-
-![alt text](assets/pictures/image.png)
+<img src="assets/pictures/history.png" width="80%">
 
 #### 少し詳しく
 
@@ -61,7 +60,17 @@
 -日本動物薬品株式会社さんのHPを利用時に異常を感じて、写真診断を実施。
 
 ## **04. 提供機能一覧**
-#### ①Topページ
+#### ①Topページ(上半分)
+- **全画面時**  
+<img src="assets/pictures/TopPage.png" width="60%">
+
+- **半画面時**  
+<img src="assets/pictures/TopPage2.png" width="60%">
+
+※ 半画面時にヘッダーがハンバーガーバーに変わる
+
+##### Topページ(下半分)
+
 
 ## **05. 使用技術・構成図**
 
