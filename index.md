@@ -67,12 +67,12 @@ title: DI-FISH仕様書 トップ
 ## **04. 提供機能一覧**
 以下のリンクから各機能の仕様詳細ページにアクセスできます。
 
-- [Topページの構成詳細](TopPage_detail.md)
-- [診断機能の詳細](Diagnosis_detail.md)
+- [Topページの構成詳細](/pages/TopPage_detail.md)
+- [診断機能の詳細](/pages/Diagnosis_detail.md)
 
 ## **05. 使用技術・構成図**
 
-- [仕様技術,構成図の詳細](technology stack.md)
+- [仕様技術,構成図の詳細](/pages/tech_stack.md)
 
 ## **06. 導入・運用方針**
 
